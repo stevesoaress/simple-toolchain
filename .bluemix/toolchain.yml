@@ -25,7 +25,7 @@ services:
     service_id: githubconsolidated
     parameters:
       repo_name: '{{toolchain.name}}'
-      repo_url: 'https://github.com/open-toolchain/node-hello-world'
+      repo_url: 'https://codeload.github.com/IBM/java-liberty-app/zip/terraform'
       type: clone
       has_issues: true
       enable_traceability: true
